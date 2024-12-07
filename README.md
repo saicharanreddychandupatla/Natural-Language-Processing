@@ -60,7 +60,7 @@ This project includes a deep learning-based notebook for detecting plagiarism us
 
 1. *Access the Notebook*:  
    Download or clone the repository and open the notebook file:  
-   Plagarism_Notebook - original.ipynb.
+   Plagarism_Detection_code.ipynb.
 
 2. *Setup Environment*:  
    Open the notebook in Google Colab or Jupyter Notebook. Ensure that you have Python 3.12 installed if using a local setup.
@@ -86,7 +86,6 @@ This project includes a deep learning-based notebook for detecting plagiarism us
 
 ---
 
-Let me know if you'd like further edits!
 ## Results
 - *Best Overall Model*: BERT, achieving top accuracy and F1 scores on both datasets.  
 - *Hybrid Model*: Demonstrated robust performance, excelling in detecting sequential patterns.  
