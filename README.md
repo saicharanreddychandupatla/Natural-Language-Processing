@@ -54,7 +54,39 @@ Plagiarism detection is a significant challenge in academic and professional con
 - *Metrics*: Accuracy, precision, recall, and F1-score.  
 
 ---
+## How to Use?
 
+This project includes a deep learning-based notebook for detecting plagiarism using transformer models like BERT, RoBERTa, T5, and a hybrid BERT+LSTM architecture. Follow the instructions below to use the notebook:
+
+1. *Access the Notebook*:  
+   Download or clone the repository and open the notebook file:  
+   Plagarism_Notebook - original.ipynb.
+
+2. *Setup Environment*:  
+   Open the notebook in Google Colab or Jupyter Notebook. Ensure that you have Python 3.12 installed if using a local setup.
+
+3. *Dataset Preparation*:  
+   - Download the datasets (SNLI and MRPC) provided in the code using the Hugging Face datasets library.
+   - Alternatively, add a shortcut of your custom dataset folder to your Google Drive for easy access.
+
+4. *Run the Notebook*:  
+   - Follow the sequential execution of cells in the notebook.
+   - The notebook covers:
+     - Installation of required dependencies (transformers, datasets, pandas).
+     - Loading and preprocessing of datasets.
+     - Training and evaluation of transformer models for plagiarism detection.
+
+5. *Customize*:  
+   - Modify hyperparameters (batch size, learning rate, etc.) and the dataset paths if necessary.
+   - Experiment with additional models or datasets for comparative analysis.
+
+6. *Save Results*:  
+   - Evaluation metrics such as accuracy, precision, recall, and F1-score are displayed during training. Save any desired outputs or model checkpoints.
+
+
+---
+
+Let me know if you'd like further edits!
 ## Results
 - *Best Overall Model*: BERT, achieving top accuracy and F1 scores on both datasets.  
 - *Hybrid Model*: Demonstrated robust performance, excelling in detecting sequential patterns.  
