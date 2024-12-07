@@ -60,7 +60,7 @@ This project includes a deep learning-based notebook for detecting plagiarism us
 
 1. *Access the Notebook*:  
    Download or clone the repository and open the notebook file:  
-   Plagarism_Detection_code.ipynb.
+   [Plagarism_Detection_code.ipynb](https://github.com/saicharanreddychandupatla/Plagiarism-Detection-using-Transformers/blob/main/Plagarism_Detection_code.ipynb).
 
 2. *Setup Environment*:  
    Open the notebook in Google Colab or Jupyter Notebook. Ensure that you have Python 3.12 installed if using a local setup.
