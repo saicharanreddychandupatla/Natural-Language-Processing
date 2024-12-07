@@ -118,4 +118,3 @@ This project demonstrates the potential of transformers in plagiarism detection,
 ## References
 1. S. V. Moravvej et al., "A Novel Plagiarism Detection Approach Combining BERT-based Word Embedding..."  
 2. R. Patil et al., "A Novel Natural Language Processing Based Model for Plagiarism Detection."  
-3. [Additional references available in the project documentation.](https://arxiv.org)
